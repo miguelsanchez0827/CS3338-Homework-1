@@ -1,8 +1,20 @@
-commit efdff7c65abece276fe09190e35c5b6500d09ce2
-Author: Miguel <miguel.sanchez1802@gmail.com>
-Date:   Fri Feb 13 11:16:43 2026 -0800
+commit 129c5c9dd912454bdb14aff4d13feea478726458
+Author: miguelsanchez0827 <miguel.sanchez1802@gmail.com>
+Date:   Fri Feb 13 11:33:39 2026 -0800
 
-    Edits
+    Update index.html
+
+commit bad4fa9512b5d4524789471c034fe885d3fadb8f
+Author: miguelsanchez0827 <miguel.sanchez1802@gmail.com>
+Date:   Fri Feb 13 11:32:23 2026 -0800
+
+    Update index.html
+
+commit 3bb03416f83bbe74991f8d93045f260805a7d2f0
+Author: Miguel <miguel.sanchez1802@gmail.com>
+Date:   Fri Feb 13 11:21:06 2026 -0800
+
+    All done
 
 commit 1e108d402235b8be88a77df1e2ae73cda903ab6c
 Author: FusionReborn <130887969+FusionReborn@users.noreply.github.com>
