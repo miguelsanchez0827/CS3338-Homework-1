@@ -1,0 +1,68 @@
+commit efdff7c65abece276fe09190e35c5b6500d09ce2
+Author: Miguel <miguel.sanchez1802@gmail.com>
+Date:   Fri Feb 13 11:16:43 2026 -0800
+
+    Edits
+
+commit 1e108d402235b8be88a77df1e2ae73cda903ab6c
+Author: FusionReborn <130887969+FusionReborn@users.noreply.github.com>
+Date:   Fri Feb 13 11:12:25 2026 -0800
+
+    Update index.html
+    
+    update index.html with teammates answer.
+
+commit 01a0102998224e58b32014fdaf19d9b1a57bba54
+Merge: f37cdce 2e6a2c0
+Author: miguelsanchez0827 <miguel.sanchez1802@gmail.com>
+Date:   Fri Feb 13 11:04:25 2026 -0800
+
+    Merge pull request #1 from miguelsanchez0827/feature-about-me
+    
+    Feature about me
+
+commit 2e6a2c0e0a4ec34c53995f1c97dc17a7475e3268
+Merge: 36c86ba f37cdce
+Author: miguelsanchez0827 <miguel.sanchez1802@gmail.com>
+Date:   Fri Feb 13 10:53:21 2026 -0800
+
+    Merge branch 'main' into feature-about-me
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
